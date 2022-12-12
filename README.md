@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lucila!
 - 👀 I’m interested in learning and grow a career in software development
-- 🌱 I’m currently learning HTML & CSS
+- 👩🏼‍💻 Technologies learned: HTML, CSS, Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/lucilamira/
 
 <!---
